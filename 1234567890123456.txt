@@ -1,0 +1,219 @@
+
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 09:05:11
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 09:05:11
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 09:05:14
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+unitInformation-Manufacturer|SUCCESS|sa|N/A||
+unitInformation-OS_Version|SUCCESS|13|N/A||
+unitInformation-Product_ID|SUCCESS|SM-S|N/A||
+unitInformation-Model_ID|SUCCESS|SM-S|N/A||
+unitInformation-IMEI|SUCCESS|1234567890123456|N/A||
+unitInformation-App_Version|SUCCESS|1.3|N/A||
+unitInformation-Build_ID|N/A||||
+unitInformation-iOS_Version|N/A||||
+unitInformation-UUID|N/A||||
+cellular-Network_Type|N/A||||
+cellular-Carrier_Name|N/A||||
+cellular-Signal_Strength|N/A||||
+touchscreen-TouchScreen_Count|SUCCESS|24|24|24|
+touchscreen-TouchScreen1X|FAILED|233|-1|-1|
+...
+...
+...
+...
+data_entry-Overall_Results|N/A||||
+data_entry-Error_Codes|N/A||||
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 10:05:11
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 10:05:11
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 10:05:11
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+unitInformation-Manufacturer|SUCCESS|sa|N/A||
+unitInformation-OS_Version|SUCCESS|13|N/A||
+unitInformation-Product_ID|SUCCESS|SM-S|N/A||
+unitInformation-Model_ID|SUCCESS|SM-S|N/A||
+unitInformation-IMEI|SUCCESS|1234567890123456|N/A||
+unitInformation-App_Version|SUCCESS|1.3|N/A||
+unitInformation-Build_ID|N/A||||
+unitInformation-iOS_Version|N/A||||
+unitInformation-UUID|N/A||||
+cellular-Network_Type|N/A||||
+cellular-Carrier_Name|N/A||||
+cellular-Signal_Strength|N/A||||
+touchscreen-TouchScreen_Count|SUCCESS|24|24|24|
+touchscreen-TouchScreen1X|FAILED|233|-1|-1|
+...
+...
+...
+...
+data_entry-Overall_Results|SUCCESS|PASS|||
+data_entry-Error_Codes|SUCCESS||||
+Test_Time: 06:28.04
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 11:05:11
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 11:05:11
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+
+
+
+
+
+COMMUNICATIONS TEST DESIGN INC.
+
+R Test Data: 
+SCANNED ID: 1234567890123456
+START DATE/TIME:11/04/2023 11:05:11
+SLOT: 2
+R Number: R2-134
+Sersion: 8.98
+TECH ID: A-USER
+
+TEST|RESULT|VALUE|MIN|MAX
+
+unitInformation-Manufacturer|SUCCESS|sa|N/A||
+unitInformation-OS_Version|SUCCESS|13|N/A||
+unitInformation-Product_ID|SUCCESS|SM-S|N/A||
+unitInformation-Model_ID|SUCCESS|SM-S|N/A||
+unitInformation-IMEI|SUCCESS|1234567890123456|N/A||
+unitInformation-App_Version|SUCCESS|1.3|N/A||
+unitInformation-Build_ID|N/A||||
+unitInformation-iOS_Version|N/A||||
+unitInformation-UUID|N/A||||
+cellular-Network_Type|N/A||||
+cellular-Carrier_Name|N/A||||
+cellular-Signal_Strength|N/A||||
+touchscreen-TouchScreen_Count|SUCCESS|24|24|24|
+touchscreen-TouchScreen1X|FAILED|233|-1|-1|
+...
+...
+...
+...
+...
+data_entry-Overall_Results|SUCCESS|PASS|||
+data_entry-Error_Codes|SUCCESS||||
+Test_Time: 06:28.77
+data_entry-Overall_Results|FAILED|FAIL|||
+data_entry-Error_Codes|FAILED|Touch_Incrt, Multitouch, Bottom_Cam_Dist|||
